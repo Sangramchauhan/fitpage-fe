@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px
+}
+.itemContainer {
+    border-bottom: 1px dotted #fff;
+    padding-bottom: 15px;
+    padding-top: 15px;   
+}
+.itemContainer:hover {
+    cursor: pointer;
+}
+.title {
+    color: white;
+    text-decoration: underline;
+}
+.subtitleMarketUpTrend {
+    color: #34B71F;
+    font-size: 10px;
+    text-decoration: underline;
+}
+.subtitleMarketDownTrend {
+    color: #F3392F;
+    font-size: 10px;
+    text-decoration: underline;
+}

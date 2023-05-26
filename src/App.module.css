@@ -1,0 +1,22 @@
+.container {
+    width: 100%;
+    max-width: 420px;
+    padding: 30px;
+    margin: auto;
+    background-color: #01131B;
+    margin-top: 40px
+}
+.buttonContainer {
+    text-align: center;
+    margin-top: 40px;
+}
+.btn {
+    border: none;
+    background: blue;
+    padding: 14px 36px 14px 36px;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    cursor: pointer;
+}

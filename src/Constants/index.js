@@ -1,0 +1,1 @@
+export const GETAPI = 'http://localhost:8000/api/data';

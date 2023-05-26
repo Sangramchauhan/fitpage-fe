@@ -1,0 +1,79 @@
+.itemDetailsContainer {
+    min-height: 60px;
+    background-color: #1686b0;
+    padding: 10px;
+    padding-left: 0px;
+}
+.itemTitle {
+    color: #FFF;
+}
+
+.subtitleMarketUpTrend {
+    color: #34B71F;
+    font-size: 10px;
+}
+.subtitleMarketDownTrend {
+    color: #F3392F;
+    font-size: 10px;
+}
+.details {
+    color: #FFF;
+    padding: 7px;
+}
+.detailItems {
+    margin: 17px 0px;
+}
+.joinCondition {
+    font-size: 10px;
+}
+.initValue {
+    color: blue;
+    text-decoration: underline;
+}
+.initValue:hover {
+    cursor: pointer;
+}
+.valueClick {
+    color: red,
+}
+
+
+/* render list  */
+.renderListTitle {
+    color: white;
+    border-bottom: 1px dotted white;
+    padding: 10px 0px; 
+    margin: 10px 0px;
+}
+
+
+.renderListSubtitle {
+    color: #FFF;
+    margin: 20px 0px;
+}
+
+.renderListLimitContainer {
+    padding: 10px 10px 40px 10px;
+    display: flex;
+    justify-content: space-between;
+    background: #FFF;
+}
+
+.period {
+    margin: 0px; 
+    padding: 0px;
+}
+
+.statementContainer {
+    overflow-wrap: anywhere;
+}
+
+.listStatement {
+    color: white; 
+    margin-right: 5px;
+}
+
+.additionalCondition {
+    margin: 10px 0px;
+    font-size: 10px;
+}
