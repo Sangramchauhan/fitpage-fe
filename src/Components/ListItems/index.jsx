@@ -1,5 +1,4 @@
 import classes from './listItem.module.css';
-
 const ListItem = (props) => {
     return (
         <div className={classes.itemContainer} onClick={() => props.itemDetailsHandler(props.criteria, props.name + "/" + props.tag)}>
